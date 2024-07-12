@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettings
+	AppVer="4.00.0137"
+	AppVerMinReader="4.00.0034"
+	GlobalConfiguration="1"
+	GlobalWorkspace="0"
+	LocalsInDb="0"
+	IndexMembers="1"
+	IndexFragments="1"
+	UseMasterFileList="1"
+	SourceDir="..\"
+	BackupDir="%PROJECT_DATA_DIR%\Backup"
+	MasterFileList="F:\项目\S34\软件\JM-S34-616_SCH1_1_V1_1 20240508\MDK-ARM\Project.si4project_filelist.txt"
+	IsImportProject="0"
+	>
+	<Imports>
+		<ImportedLibs/>
+	</Imports>
+	<ParseConditions>
+		<Defines/>
+	</ParseConditions>
+</ProjectSettings>

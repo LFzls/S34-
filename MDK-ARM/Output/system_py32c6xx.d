@@ -1,0 +1,9 @@
+.\output\system_py32c6xx.o: ..\Src\system_py32c6xx.c
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c6xx.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Device\PY32C6xx\Include\py32c616x5.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Include\core_cm0plus.h
+.\output\system_py32c6xx.o: D:\keil5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Include\core_cmInstr.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Include\cmsis_armcc.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Include\core_cmFunc.h
+.\output\system_py32c6xx.o: ..\Drivers\CMSIS\Device\PY32C6xx\Include\system_py32c6xx.h

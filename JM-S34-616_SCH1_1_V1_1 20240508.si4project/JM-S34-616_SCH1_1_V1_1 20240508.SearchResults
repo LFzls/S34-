@@ -1,0 +1,5 @@
+---- R_Hearting_Time_Temp Matches (4 in 2 files) ----
+bsp.h (Inc) line 368 : ex uint32_t R_Hearting_Time_Temp;
+Hearting_Ctrl in main.c (Src) : 			R_Hearting_Time_Temp++;
+Hearting_Ctrl in main.c (Src) : 			if(R_Hearting_Time_Temp>=(2*1000/5))
+Hearting_Ctrl in main.c (Src) : 					R_Hearting_Time_Temp -= (2*1000/5);
